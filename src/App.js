@@ -13,8 +13,8 @@ function App() {
   return (
       <Router>
         <Routes>
-          <Route path='/' element={<Question/>}/>
-          <Route path='/yay' element={<Success/>}/>
+          <Route path='/the-ultimate-valentine/' element={<Question/>}/>
+          <Route path='/the-ultimate-valentine/yay' element={<Success/>}/>
         </Routes>
       </Router>
   );
