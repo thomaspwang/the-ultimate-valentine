@@ -16,7 +16,7 @@ function Question() {
   let navigate = useNavigate();
 
   const goToSuccessPage = () => {
-    navigate('/yay');
+    navigate('/the-ultimate-valentine/yay');
   };
 
   const handleMouseOver = () => {

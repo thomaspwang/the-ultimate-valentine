@@ -9,7 +9,7 @@ function Success() {
     let navigate = useNavigate();
 
     const goToQuestionPage = () => {
-        navigate('/');
+        navigate('/the-ultimate-valentine/');
       };
     return (
         <div>
