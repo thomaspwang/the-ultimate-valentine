@@ -1,7 +1,7 @@
 {
   "name": "ultimate-valentine-proposal",
   "version": "0.1.0",
-  "homepage": "https://thomaspwang.github.io/",
+  "homepage": "https://thomaspwang.github.io/the-ultimate-valentine",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
